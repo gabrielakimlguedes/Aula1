@@ -1,0 +1,45 @@
+<html>
+		<head>
+		
+<script type="text/javascript">
+	var a=1.5;
+	var b=4;
+	var c=2;
+	var d=3;
+	var e=1.2;
+	var f=4.3;
+	var TotalCount=a*(c+d)/(b*(e+f))
+	alert("Resultado letra a: " + TotalCount)
+	var a=1.5;
+	var b=4;
+	var c=2;
+	var d=3;
+	var e=1.2;
+	var f=4.3;
+	var TotalCount2=(a**(b+c)/(e+f))+d
+	alert("Resultado letra b: " + TotalCount2)
+	var a=1.5;
+	var b=4;
+	var c=2;
+	var d=3;
+	var e=1.2;
+	var f=4.3;
+	var TotalCount3=(a+(((c+d)**2)/(b**2))*d)*(1/c)
+	alert("Resultado letra c: " + TotalCount3)
+	var a=1.5;
+	var b=4;
+	var c=2;
+	var d=3;
+	var e=1.2;
+	var f=4.3;
+	var TotalCount4=(-b+((b**2)-4*a*c)**(1/2))/2
+	alert("Resultado letra d: " + TotalCount4)
+</script>
+
+		</head>
+		<body>
+				Lista de Exercícios 1, questão 2.
+		</body>
+		
+</html>
+	
