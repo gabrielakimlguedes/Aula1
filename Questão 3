@@ -1,0 +1,13 @@
+<html>
+		<head>
+		
+<script type="text/javascript">
+	var horas=prompt("Entre com a hora")
+	var dias=horas/24
+	alert("Resultado: " + dias)
+</script>
+		</head>
+		<body>
+				Lista de Exercícios 1, questão 3.
+		</body>
+</html>
